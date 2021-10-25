@@ -34,3 +34,8 @@ iOS 9.0+
 ![QQ20210822-104139-HD](https://user-images.githubusercontent.com/15797691/130340180-429c268e-7501-44bd-a541-df8e09a19c04.gif)
 
 
+### MQTT配置修改
+<img width="769" alt="WX20211009-143639@2x" src="https://user-images.githubusercontent.com/15797691/136647138-4cd3804f-bf01-446d-9552-2be0d97717ff.png">
+
+
+<img width="820" alt="WX20211009-110551@2x" src="https://user-images.githubusercontent.com/15797691/136647095-d1d4790a-aa13-49ae-aceb-3973f851461c.png">
